@@ -99,3 +99,10 @@ Hence, the project successfully demonstrates practical route optimization using 
 - Team members listed as contributors: **Not required / omitted**
 - GUI mandatory: **No** (CLI/TUI implementation provided)
 - Uses class-taught topic: **Yes (Graph + Dijkstra)**
+
+## Team Members
+- AP24110011660-NISSANKARARAO KRISHNA VAMSI
+- AP240110011136-TUMU PRASHANTH
+- AP24110011559- NARAHARISETTI SREERAM
+- AP24110011551-PUTTA TEJESH
+- AP24110011906-GORANTLA GOPI KRISHNA
